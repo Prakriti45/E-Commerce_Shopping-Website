@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Online-Shopping Website </title>
+    <link rel="stylesheet" type="text/css" href="firs.css">
+</head>
+<body>
+<header id="home">
+    <nav>
+        <div class="logo">E-Shop</div>
+        <div class="menu">
+            <a href="#Home">Home</a>
+            <a href="#Featured">Featured</a>
+            <a href="#man">man</a>
+            <a href="#Women">women</a>
+            <a href="#Shop">Shop</a>
+        </div>        
+     </nav>        
+<div class="container">
+    <div class="left">
+        <img src="images/img.jpg" alt="watch image" width="400" height="400">
+    </div>
+
+    <div class="right">
+        <h1>Best Festival Offers</h1>
+        <p>
+            We are providing best quality products for all.     
+        </p>
+        <p>50% DISCOUNT!!!</p>
+        <button>shop</button><br>
+        <img src="images/download.jpg" alt="social accounts" width="70" height="100">
+    </div>
+</div>
+</header>
+<section id="Featured">
+    <h1>Featured</h1>
+    <div class="wrapper">
+    <div class="box1">
+        <img src="images/first.jpg">
+        <div class="Price">Price: $50 </div>
+    </div>
+    <div>
+        <img src="images/second.jpg">
+        <div class="Price">Price: $20 </div>
+    </div>
+    <div>
+        <img src="images/third.jpg">
+        <div class="Price">Price: $40 </div>
+    </div>
+    <div>
+        <img src="images/fourth.jpg">
+        <div class="Price">Price: $100 </div>
+    </div>
+    <div>
+        <img src="images/first.jpg">
+        <div class="Price">Price: $50 </div>
+    </div>
+    </div>
+</section>
+
+<section id="man">
+    <div class="man-row">
+        <div class="man-box">
+            <img src="images/m1.jpg">
+            <h2>Titan Ferr TR<br>$129.99</h2>
+            <h3>Add to cart</h3>
+        </div>
+        <div class="man-box">
+            <img src="images/m2.jpg">
+            <h2>Titan Chang<br>$150.00</h2>
+            <h3>Add to cart</h3>
+        </div>
+        <div class="man-box">
+            <img src="images/m3.jpg">
+            <h2>Titan hill TR<br>$110.99</h2>
+            <h3>Add to cart</h3>
+        </div>
+        <div class="man-box">
+            <img src="images/m4.jpg">
+            <h2>Titan Crystal<br>$169.99</h2>
+            <h3>Add to cart</h3>
+        </div>
+        <div class="man-box">
+            <img src="images/m5.jpg">
+            <h2>Titan Rock<br>$100.00</h2>
+            <h3>Add to cart</h3>
+
+        </div>
+    </div>    
+</section>
+
+
+<section id="Women">
+    <div class="man-row">
+        <div class="man-box">
+            <img src="images/w1.jpg">
+            <h2>Titan RoseGold<br>$70.00</h2>
+            <h3>Add to cart</h3>
+        </div>
+        <div class="man-box">
+            <img src="images/w2.jpg">
+            <h2>Titan Lavender TR<br>$90.99</h2>
+            <h3>Add to cart</h3>
+        </div>
+        <div class="man-box">
+            <img src="images/w3.jpg">
+            <h2>Titan Crystal Gold<br>$170.99</h2>
+            <h3>Add to cart</h3>
+        </div>
+        <div class="man-box">
+            <img src="images/w4.jpg">
+            <h2>Titan Navy<br>$150.00</h2>
+            <h3>Add to cart</h3>
+
+        </div>
+    </div>    
+</section>
+
+<section id="footer">
+    <h2>Developed by PRAKRITI AGRAWAL</h2>
+
+</section>
+
+</body>
+</html>
